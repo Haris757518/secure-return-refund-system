@@ -1,0 +1,3 @@
+STATUS_PENDING = "Pending"
+STATUS_APPROVED = "Approved"
+STATUS_REJECTED = "Rejected"
